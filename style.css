@@ -10,9 +10,16 @@ div {
 
 /* ID selector to select the element with id 'main-header' */
 #main-header {
-  /* Your code here! */
-  color: red;
-}
+  selector * {
+    color:red; */
+  }
+  /*
+  This is a css declaration for a selector
+  'color' is a property name and 'blue' is a css property value
+  !!!!! CSS declarations must end with a semi-colon (;) !!!!!
+  */
+npm 
+
 
 /* Class selector to select elements containing the class 'perspective-questions' */
 .perspective-questions {
